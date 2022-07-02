@@ -23,7 +23,7 @@ main {
   grid-template-rows: 1fr;
   gap: 30px;
   height: 100%;
-  padding: 10%;
+  padding: 5%;
 }
 
 .section {
